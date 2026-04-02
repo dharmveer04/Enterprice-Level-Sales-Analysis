@@ -100,3 +100,30 @@ This project follows a complete data analytics lifecycle:
 ## 📊 Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+
+---
+
+## 🚀 Key Features
+
+- End-to-end data analysis project  
+- Business-focused insights  
+- Multiple advanced techniques (Funnel, Cohort, Segmentation)  
+- Interactive Power BI dashboard  
+- Real-world problem-solving approach  
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how raw data can be transformed into actionable business insights using SQL, Python, and Power BI. It highlights the importance of data-driven decision-making in improving business performance.
+
+---
+
+## 👨‍💻 Author
+
+**Dharmveer Patel**  
+Data Analyst | SQL | Python | Power BI  
+
+GitHub: https://github.com/dharmveer04  
+LinkedIn: https://linkedin.com/in/dharmveer-patel
