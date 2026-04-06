@@ -98,8 +98,18 @@ This project follows a complete data analytics lifecycle:
 ---
 
 ## 📊 Dashboard Preview
+### 🔹 Overview
+![Overview](POWER_BI_DASHBOARD_SCREENSHOTS/OVERVIEW.png)
 
-![Dashboard](dashboard.png)
+### 🔹 Profit Analysis
+![Profit](POWER_BI_DASHBOARD_SCREENSHOTS/PROFIT.png)
+
+### 🔹 Revenue Analysis
+![Revenue](POWER_BI_DASHBOARD_SCREENSHOTS/REVENUE.png)
+
+### 🔹 Sales Trend
+![Trend](POWER_BI_DASHBOARD_SCREENSHOTS/TREND.png
+
 
 
 ---
