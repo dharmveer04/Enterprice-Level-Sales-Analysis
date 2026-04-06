@@ -108,7 +108,7 @@ This project follows a complete data analytics lifecycle:
 ![Revenue](POWER_BI_DASHBOARD_SCREENSHOTS/REVENUE.png)
 
 ### 🔹 Sales Trend
-![Trend](POWER_BI_DASHBOARD_SCREENSHOTS/TREND.png
+![Trend](POWER_BI_DASHBOARD_SCREENSHOTS/TREND.png)
 
 
 
